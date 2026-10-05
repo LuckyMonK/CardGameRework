@@ -1,0 +1,13 @@
+{
+  "name": "CardGame.Infrastructure",
+  "rootNamespace": "CardGame.Infrastructure",
+  "references": [
+    "CardGame.Services.Contracts",
+    "Unity.Addressables",
+    "Unity.ResourceManager",
+    "Zenject",
+    "CardGame.UI"
+  ],
+  "autoReferenced": false,
+  "noEngineReferences": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "CardGame.Meta.Menu.Contracts",
+  "rootNamespace": "CardGame.Meta.Menu.Contracts",
+  "references": [],
+  "autoReferenced": false,
+  "noEngineReferences": true
+}

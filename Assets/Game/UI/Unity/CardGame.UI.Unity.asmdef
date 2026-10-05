@@ -1,0 +1,7 @@
+{
+  "name": "CardGame.UI.Unity",
+  "references": [
+    "CardGame.UI"
+  ],
+  "autoReferenced": false
+}

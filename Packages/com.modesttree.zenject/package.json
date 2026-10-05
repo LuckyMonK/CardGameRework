@@ -1,0 +1,12 @@
+{
+  "name": "com.modesttree.zenject",
+  "version": "9.1.0",
+  "displayName": "Zenject",
+  "description": "Official Zenject v9.1.0 core and editor, packaged locally without optional samples or tests.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Modest Tree",
+    "url": "https://github.com/modesttree/Zenject"
+  },
+  "license": "MIT"
+}

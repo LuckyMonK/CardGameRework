@@ -1,0 +1,12 @@
+{
+  "name": "CardGame.Meta.Menu.Unity",
+  "rootNamespace": "CardGame.Meta.Menu.Unity",
+  "references": [
+    "CardGame.Meta.Menu",
+    "Unity.ugui",
+    "CardGame.UI",
+    "CardGame.UI.Unity"
+  ],
+  "autoReferenced": false,
+  "noEngineReferences": false
+}

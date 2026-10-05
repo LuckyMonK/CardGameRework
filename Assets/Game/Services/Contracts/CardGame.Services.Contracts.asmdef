@@ -1,0 +1,7 @@
+{
+  "name": "CardGame.Services.Contracts",
+  "rootNamespace": "CardGame.Services.Contracts",
+  "references": [],
+  "autoReferenced": false,
+  "noEngineReferences": false
+}

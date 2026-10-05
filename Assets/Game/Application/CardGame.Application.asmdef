@@ -1,0 +1,16 @@
+{
+  "name": "CardGame.Application",
+  "rootNamespace": "CardGame.Application",
+  "references": [
+    "CardGame.Services.Contracts",
+    "CardGame.Infrastructure",
+    "CardGame.Meta.Menu.Contracts",
+    "CardGame.Meta.Menu",
+    "CardGame.Meta.Menu.Unity",
+    "Zenject",
+    "CardGame.UI",
+    "CardGame.UI.Unity"
+  ],
+  "autoReferenced": false,
+  "noEngineReferences": false
+}
